@@ -1,4 +1,4 @@
-[![simple_morse_decoder_encoder build](https://github.com/EmbeddedCat/simple_morse_decoder_encoder/actions/workflows/cmake.yml/badge.svg?branch=main&event=push)](https://github.com/EmbeddedCat/simple_morse_decoder_encoder/actions/workflows/cmake.yml)
+[![simple_morse_decoder_encoder build](https://github.com/constarg/simple_morse_decoder_encoder/actions/workflows/cmake.yml/badge.svg?branch=main&event=push)](https://github.com/constarg/simple_morse_decoder_encoder/actions/workflows/cmake.yml)
 
 # simple_morse_decoder_encoder
 This is a simple example of a program that takes as an input morse code and gives text on output or takes as an input text and give on output morse code. It works based on the international morse code.
@@ -14,7 +14,7 @@ sudo apt-get install build-essential cmake git gcc
 First download the program from GitHub and go to the simple_morse_decoder_encoder.
 
 ```
-% git clone https://github.com/EmbeddedCat/simple_morse_decoder_encoder.git
+% git clone https://github.com/constarg/simple_morse_decoder_encoder.git
 % cd simple_morse_decoder_encoder/
 ```
 
